@@ -77,7 +77,7 @@ Evaluate the selected model:
 
 Run batch predictions:
 
-    python -m src.predict_batch --input data/raw/Telco-Customer-Churn.csv
+    python -m src.predict_batch --input data/new_customers.csv
 
 Run automated tests:
 

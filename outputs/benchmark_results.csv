@@ -1,0 +1,2 @@
+Number_of_Customers,Average_Time_Seconds,P50_Time_Seconds,P95_Time_Seconds,P99_Time_Seconds,Throughput_Customers_Per_Second
+1057,0.024379144566682952,0.018701984500239632,0.061642934550127385,0.06962617086037427,43356.73046725841

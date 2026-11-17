@@ -103,3 +103,6 @@ pipeline using training data only.
 The model is trained on a historical sample dataset.
 Its predictions should be validated on current customer data
 before being used for real business decisions.
+
+## dataset's download URL
+https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv

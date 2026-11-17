@@ -106,3 +106,13 @@ before being used for real business decisions.
 
 ## dataset's download URL
 https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+
+## Batch Prediction
+
+To predict churn for new customers, provide a CSV file
+containing customer features in the expected format,
+without the Churn target column.
+
+Example:
+
+    python -m src.predict_batch --input data/new_customers.csv

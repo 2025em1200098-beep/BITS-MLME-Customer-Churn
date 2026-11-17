@@ -1,0 +1,3 @@
+Test,Status,Details
+Missing values,Passed,Model generated predictions for 5 customers with a missing value.
+Unknown categories,Passed,Model handled an unseen category without crashing.

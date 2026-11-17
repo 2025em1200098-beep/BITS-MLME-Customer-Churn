@@ -1,0 +1,5 @@
+Feature,PSI,Drift_Status
+SeniorCitizen,0.0005778147645754415,Low drift
+tenure,0.005827317422117588,Low drift
+MonthlyCharges,0.016022400516723077,Low drift
+TotalCharges,0.017135209214123304,Low drift
